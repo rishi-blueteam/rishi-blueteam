@@ -64,7 +64,7 @@
 </div>
 
 <div align="center">
-  <img src="./assets/skills/icons/tools-and-technologies.svg"
+  <img src="./assets/skills/icons/tools-and-technologies-no-header.svg"
        width="100%"
        alt="Tools and Technologies"/>
 </div>
