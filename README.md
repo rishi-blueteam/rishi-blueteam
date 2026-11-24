@@ -25,6 +25,14 @@ Here are some ideas to get you started:
        alt="Cybersecurity Command Center"/>
 </div>
 
+<!-- ================= Operator ================= -->
+
+<div align="center">
+  <img src="./assets/sections/operator-profile-v4.svg" width="100%" alt="Operator Profile"/>
+</div>
+
+
+
 ---
 
 <!-- ================= PROFILE ================= -->
