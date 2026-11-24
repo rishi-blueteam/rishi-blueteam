@@ -55,14 +55,6 @@
   </a>
 </div>
 
-<!-- ================= BLUE TEAM ANALYSIS ================= -->
-
-<div align="center">
-  <a href="https://github.com/rishi-blueteam/blue-team-analysis">
-    <img src="./assets/projects/blue-team-header-v3.svg" width="100%" alt="Blue Team Analysis"/>
-  </a>
-</div>
-
 
 ---
 
