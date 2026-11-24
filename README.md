@@ -1,22 +1,3 @@
-## Hi there 👋
-
-<!--
-**rishi-blueteam/rishi-blueteam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
-
 <!-- ================= HEADER ================= -->
 
 <div align="center">
@@ -28,9 +9,59 @@ Here are some ideas to get you started:
 <!-- ================= Operator ================= -->
 
 <div align="center">
-  <img src="./assets/sections/operator-profile-v4.svg" width="100%" alt="Operator Profile"/>
+  <img src="./assets/sections/operator-profile-v5.svg" width="100%" alt="Operator Profile"/>
 </div>
 
+
+<!-- ================= SECURITY PROJECTS ================= -->
+
+<div align="center">
+  <img src="./assets/projects/section-header-v3.svg" width="100%" alt="Security Projects"/>
+</div>
+
+<!-- FEATURED PROJECTS -->
+
+<div align="center">
+  <a href="https://github.com/rishi-blueteam/High-Fidelity-SOC-Simulation-Threat-Analysis">
+    <img src="./assets/projects/high-fidelity-v3.svg" width="100%" alt="High Fidelity SOC Simulation and Threat Analysis"/>
+  </a>
+</div>
+
+<div align="center">
+  <a href="https://github.com/rishi-blueteam/The-KingPhisher-Man">
+    <img src="./assets/projects/kingphisher-v3.svg" width="100%" alt="The KingPhisher Man"/>
+  </a>
+</div>
+
+<!-- SECURITY LABS: ROW 1 -->
+
+<div align="center">
+  <a href="https://github.com/rishi-blueteam/Windows-Endpoint-Monitoring-Wazuh-">
+    <img src="./assets/projects/windows-wazuh-v3.svg" width="49%" alt="Windows Endpoint Monitoring"/>
+  </a>
+  <a href="https://github.com/rishi-blueteam/Security_Plus_Certification-Labs">
+    <img src="./assets/projects/security-labs-v3.svg" width="49%" alt="Security+ Labs"/>
+  </a>
+</div>
+
+<!-- SECURITY LABS: ROW 2 -->
+
+<div align="center">
+  <a href="https://github.com/rishi-blueteam/SOC-Simulator-Linux">
+    <img src="./assets/projects/soc-linux-v3.svg" width="49%" alt="SOC Simulator Linux"/>
+  </a>
+  <a href="https://github.com/rishi-blueteam?tab=repositories">
+    <img src="./assets/projects/more-v3.svg" width="49%" alt="More Projects"/>
+  </a>
+</div>
+
+<!-- ================= BLUE TEAM ANALYSIS ================= -->
+
+<div align="center">
+  <a href="https://github.com/rishi-blueteam/blue-team-analysis">
+    <img src="./assets/projects/blue-team-header-v3.svg" width="100%" alt="Blue Team Analysis"/>
+  </a>
+</div>
 
 
 ---
