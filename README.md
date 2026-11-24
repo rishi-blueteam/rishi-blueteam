@@ -14,3 +14,38 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+
+<!-- ================= HEADER ================= -->
+
+<div align="center">
+  <img src="./assets/banners/cyber-header.svg"
+       width="100%"
+       alt="Cybersecurity Command Center"/>
+</div>
+
+---
+
+<!-- ================= PROFILE ================= -->
+
+## `01 // OPERATOR PROFILE`
+
+```yaml
+profile:
+  alias: rishi-blueteam
+  domain: Cybersecurity
+  specialization: Blue Team
+
+  focus:
+    - Security Operations
+    - Threat Detection
+    - Incident Response
+    - Security Automation
+    - Network Traffic Analysis
+
+  status: Continuous Learning
+```
+
+---
+
