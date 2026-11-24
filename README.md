@@ -57,7 +57,11 @@
 
 
 <!-- ================= TOOLS & TECHNOLOGIES ================= -->
-
+<div align="center">
+  <img src="./assets/skills/section-header.svg"
+       width="100%"
+       alt="Tools and Technologies"/>
+</div>
 
 <div align="center">
   <img src="./assets/skills/icons/tools-and-technologies.svg"
