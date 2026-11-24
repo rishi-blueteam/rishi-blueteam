@@ -58,35 +58,10 @@
 
 <!-- ================= TOOLS & TECHNOLOGIES ================= -->
 
+
 <div align="center">
-  <img src="./assets/skills/section-header.svg"
+  <img src="./assets/skills/tools-and-technologies.svg"
        width="100%"
        alt="Tools and Technologies"/>
 </div>
-
-<!-- ROW 1 -->
-
-<p align="center">
-  <img src="./assets/skills/icons/splunk.svg" width="11.5%" alt="Splunk"/>
-  <img src="./assets/skills/icons/elastic.svg" width="11.5%" alt="Elastic"/>
-  <img src="./assets/skills/icons/wazuh.svg" width="11.5%" alt="Wazuh"/>
-  <img src="./assets/skills/icons/wireshark.svg" width="11.5%" alt="Wireshark"/>
-  <img src="./assets/skills/icons/snort.svg" width="11.5%" alt="Snort"/>
-  <img src="./assets/skills/icons/log-analysis.svg" width="11.5%" alt="Log Analysis"/>
-  <img src="./assets/skills/icons/virustotal.svg" width="11.5%" alt="VirusTotal"/>
-  <img src="./assets/skills/icons/cyberchef.svg" width="11.5%" alt="CyberChef"/>
-</p>
-
-<!-- ROW 2 -->
-
-<p align="center">
-  <img src="./assets/skills/icons/urlhaus.svg" width="11.5%" alt="URLhaus"/>
-  <img src="./assets/skills/icons/mxtoolbox.svg" width="11.5%" alt="MXToolbox"/>
-  <img src="./assets/skills/icons/windows.svg" width="11.5%" alt="Windows"/>
-  <img src="./assets/skills/icons/linux.svg" width="11.5%" alt="Linux"/>
-  <img src="./assets/skills/icons/azure.svg" width="11.5%" alt="Azure"/>
-  <img src="./assets/skills/icons/python.svg" width="11.5%" alt="Python"/>
-  <img src="./assets/skills/icons/docker.svg" width="11.5%" alt="Docker"/>
-  <img src="./assets/skills/icons/ollama.svg" width="11.5%" alt="Ollama"/>
-</p>
 
