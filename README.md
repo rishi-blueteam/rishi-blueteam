@@ -56,27 +56,3 @@
 </div>
 
 
----
-
-<!-- ================= PROFILE ================= -->
-
-## `01 // OPERATOR PROFILE`
-
-```yaml
-profile:
-  alias: rishi-blueteam
-  domain: Cybersecurity
-  specialization: Blue Team
-
-  focus:
-    - Security Operations
-    - Threat Detection
-    - Incident Response
-    - Security Automation
-    - Network Traffic Analysis
-
-  status: Continuous Learning
-```
-
----
-
