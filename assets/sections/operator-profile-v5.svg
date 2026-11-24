@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 465" role="img" aria-label="Operator profile: Blue Team operator profile, certifications and security focus">
+<defs><pattern id="grid" width="25" height="25" patternUnits="userSpaceOnUse"><path d="M25 0H0V25" fill="none" stroke="#18352e" stroke-width=".5"/></pattern></defs>
+<rect x="1" y="1" width="998" height="463" rx="12" fill="#080d11" stroke="#285746" stroke-width="2"/><rect x="2" y="42" width="996" height="421" fill="url(#grid)"/>
+<g font-family="monospace"><circle cx="24" cy="22" r="5" fill="#ff5f57"/><circle cx="42" cy="22" r="5" fill="#febc2e"/><circle cx="60" cy="22" r="5" fill="#28c840"/><text x="970" y="27" text-anchor="end" fill="#81a89c" font-size="14">r-secops@blueteam</text><path d="M1 42H999" stroke="#285746"/>
+<text x="28" y="80" font-size="23" font-weight="bold" fill="#39e68c">01 // OPERATOR PROFILE</text>
+<g font-size="17" fill="#00d9ff"><text x="28" y="118">$ whoami</text><text x="28" y="184">$ cat operator_info.yaml</text><text x="28" y="373">$ cat mission.txt</text></g>
+<g font-size="16" fill="#d3e2dc"><text x="28" y="144">Blue Team cybersecurity practitioner focused on threat analysis,</text><text x="28" y="164">SOC operations, AI security and detection engineering.</text>
+<text x="220" y="215">Computer Engineering + MBA Finance</text>
+<text x="220" y="240">Blue Team</text>
+<text x="220" y="265">SC-200 | AZ-900 | Google Cybersecurity Professional Certificate</text>
+<text x="220" y="287">CompTIA Security+ (training)</text>
+<text x="220" y="315">Threat Analysis | AI Security | SOC Operations | Detection Engineering</text>
+<text x="220" y="340">Learning, building, implementing, securing &amp; vibe coding.</text>
+<text x="28" y="398">Transforming security knowledge into practical defensive capabilities</text><text x="28" y="420">through hands-on investigations, research and automation.</text></g>
+<g font-size="16" fill="#39e68c"><text x="28" y="215">Background:</text><text x="28" y="240">Specialization:</text><text x="28" y="265">Credentials:</text><text x="28" y="315">Focus:</text><text x="28" y="340">Status:</text><text x="28" y="449" textLength="183" lengthAdjust="spacingAndGlyphs">r-secops@blueteam:~$</text></g><rect x="215" y="435" width="9" height="16" fill="#39e68c"><animate attributeName="opacity" values="1;1;0;0;1" dur="1.2s" repeatCount="indefinite"/></rect></g></svg>
