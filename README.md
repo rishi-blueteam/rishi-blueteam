@@ -7,16 +7,16 @@
 </div>
 
 <!-- ================= Operator ================= -->
-
+<!--
 <div align="center">
   <img src="./assets/sections/operator-profile-v5.svg" width="100%" alt="Operator Profile"/>
 </div>
-
+-->
 
 <!-- ================= SECURITY PROJECTS ================= -->
 
 <div align="center">
-  <img src="./assets/projects/section-header-v3.svg" width="100%" alt="Security Projects"/>
+  <img src="./assets/projects/section-header-v4.svg" width="100%" alt="Security Projects"/>
 </div>
 
 <!-- FEATURED PROJECTS -->
